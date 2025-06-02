@@ -5,7 +5,7 @@ cask "font-franklin" do
   url "https://github.com/martimlobao/homebrew-nyt-fonts.git",
       verified:  "github.com/martimlobao/homebrew-nyt-fonts",
       branch:    "main",
-      only_path: "fonts/ofl/franklin"
+      only_path: "fonts/franklin"
   name "Franklin"
   homepage "https://github.com/martimlobao/homebrew-nyt-fonts"
 

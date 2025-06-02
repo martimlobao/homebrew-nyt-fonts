@@ -5,7 +5,7 @@ cask "font-stymie" do
   url "https://github.com/martimlobao/homebrew-nyt-fonts.git",
       verified:  "github.com/martimlobao/homebrew-nyt-fonts",
       branch:    "main",
-      only_path: "fonts/ofl/stymie"
+      only_path: "fonts/stymie"
   name "Stymie"
   homepage "https://github.com/martimlobao/homebrew-nyt-fonts"
 

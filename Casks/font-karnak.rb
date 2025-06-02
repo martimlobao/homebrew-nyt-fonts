@@ -5,7 +5,7 @@ cask "font-karnak" do
   url "https://github.com/martimlobao/homebrew-nyt-fonts.git",
       verified:  "github.com/martimlobao/homebrew-nyt-fonts",
       branch:    "main",
-      only_path: "fonts/ofl/karnak"
+      only_path: "fonts/karnak"
   name "Karnak"
   homepage "https://github.com/martimlobao/homebrew-nyt-fonts"
 
