@@ -1,4 +1,4 @@
-cask "font-chomsky" do
+cask "font-cheltenham" do
   version :latest
   sha256 :no_check
 
