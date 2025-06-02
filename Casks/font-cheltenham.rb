@@ -2,12 +2,12 @@ cask "font-chomsky" do
   version :latest
   sha256 :no_check
 
-  url "https://github.com/martimlobao/nyt-fonts.git",
-      verified:  "github.com/martimlobao/nyt-fonts",
+  url "https://github.com/martimlobao/homebrew-nyt-fonts.git",
+      verified:  "github.com/martimlobao/homebrew-nyt-fonts",
       branch:    "main",
       only_path: "fonts/ofl/cheltenham"
   name "Cheltenham"
-  homepage "https://github.com/martimlobao/nyt-fonts"
+  homepage "https://github.com/martimlobao/homebrew-nyt-fonts"
 
   font "cheltenham-cond-normal-300.ttf"
   font "cheltenham-cond-normal-500.ttf"
