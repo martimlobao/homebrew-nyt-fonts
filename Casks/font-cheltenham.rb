@@ -5,7 +5,7 @@ cask "font-chomsky" do
   url "https://github.com/martimlobao/homebrew-nyt-fonts.git",
       verified:  "github.com/martimlobao/homebrew-nyt-fonts",
       branch:    "main",
-      only_path: "fonts/ofl/cheltenham"
+      only_path: "fonts/cheltenham"
   name "Cheltenham"
   homepage "https://github.com/martimlobao/homebrew-nyt-fonts"
 
