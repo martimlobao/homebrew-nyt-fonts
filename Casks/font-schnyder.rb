@@ -3,10 +3,10 @@ cask "font-schnyder" do
   sha256 :no_check
 
   url "https://github.com/martimlobao/homebrew-nyt-fonts.git",
-      verified:  "github.com/martimlobao/homebrew-nyt-fonts",
       branch:    "main",
       only_path: "fonts/schnyder"
   name "Schnyder"
+  desc "Schnyder NYT font family"
   homepage "https://github.com/martimlobao/homebrew-nyt-fonts"
 
   font "schnyder-s-normal-600.ttf"

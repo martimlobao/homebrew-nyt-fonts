@@ -3,10 +3,10 @@ cask "font-imperial" do
   sha256 :no_check
 
   url "https://github.com/martimlobao/homebrew-nyt-fonts.git",
-      verified:  "github.com/martimlobao/homebrew-nyt-fonts",
       branch:    "main",
       only_path: "fonts/imperial"
   name "Imperial"
+  desc "Imperial NYT font family"
   homepage "https://github.com/martimlobao/homebrew-nyt-fonts"
 
   font "imperial-italic-500.ttf"
