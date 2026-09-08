@@ -3,10 +3,10 @@ cask "font-mag" do
   sha256 :no_check
 
   url "https://github.com/martimlobao/homebrew-nyt-fonts.git",
-      verified:  "github.com/martimlobao/homebrew-nyt-fonts",
       branch:    "main",
       only_path: "fonts/mag"
   name "Mag"
+  desc "Mag NYT font family"
   homepage "https://github.com/martimlobao/homebrew-nyt-fonts"
 
   font "magsans-normal-500.ttf"
